@@ -6,7 +6,14 @@
 ![Summer analytics](https://github.com/rutvi14/pics/blob/main/summer%20analytics.PNG)
 
 
-  
+ 
+## To know more about this program 
+
+- Check out my linkedin post
+
+https://www.linkedin.com/posts/rutvi-rajesh14_summer-analytics21-certificate-activity-6822732700831510528-0X27
+
+- It was really an amazing journey of 6 week which consists of 5 assignments and 1 hackathon and it covered many ML,Deep learning algortihms and concepts.
 ## 🔧 Technologies used:
 * Python
 * Many Machine Learning and deep learning regression algorithms
